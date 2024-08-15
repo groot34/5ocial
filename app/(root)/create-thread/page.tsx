@@ -17,7 +17,7 @@ async function Page() {
   // console.log(userId)
   return (
     <>
-      <h1 className="head-text">Create Thread</h1>
+      <h1 className="head-text">Create Tweet</h1>
 
       <PostThread userId={userId}/>
     </>
